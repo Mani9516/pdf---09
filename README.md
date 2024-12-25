@@ -12,5 +12,3 @@ Just completed an exciting project to create a **Content Engine** for analyzing 
 🎯 Designed to run efficiently on low-resource systems, this engine ensures seamless PDF comparison with actionable insights.  
 
 Excited to explore more AI/ML applications! 🚀 Let’s connect and discuss innovative ideas!  
-
-#AI #MachineLearning #Streamlit #PDFAnalysis #NaturalLanguageProcessing
