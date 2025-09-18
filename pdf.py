@@ -1,5 +1,13 @@
+# Install the necessary dependencies
+!pip install -U langchain-community
+!pip install -U langchain
+!pip install -U sentence-transformers
+!pip install -U transformers
+!pip install -U chromadb
+!pip install -U matplotlib
+
 import streamlit as st
-from langchain.document_loaders import PyPDFLoader
+from langchain_community.document_loaders import PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores import Chroma
 from langchain.embeddings import HuggingFaceEmbeddings
